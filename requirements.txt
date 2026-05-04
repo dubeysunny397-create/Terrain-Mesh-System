@@ -5,3 +5,7 @@ plotly
 torch
 pykan
 scikit-learn
+PyYAML
+sympy
+matplotlib
+tqdm
